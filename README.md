@@ -1,3 +1,2 @@
-#ACM recruitment 
+This repository contains the answer's to all the quesion's for the recruitment, arranged in different files.
 
-This repository was created for the ACM recruitment task.
